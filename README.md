@@ -8,7 +8,7 @@ Download the auth folder from this repo and paste the cutscene files in your Ish
 For text boxes and tutorials download the boot.par, wdr.par, pause.par, street_name.dat, stay.par files and put them in their folders.
 
 # Issues
-The issues remain the same as in the GT patch. After fully translating the remaining 6 chapters, I will make a patch to revert the GT patch changes so that it would be easier to solve the softlock issue.
+The issues remain the same as in the GT patch. After fully translating the remaining 6 chapters, I will make a patch to revert the GT patch changes (by overwriting the english files) so that it would be easier to solve the softlock issue.
 
 # DOWNLOAD
 
