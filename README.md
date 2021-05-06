@@ -13,4 +13,4 @@ The issues remain the same as in the GT patch. After fully translating the remai
 # DOWNLOAD
 
 chapter 1-8 translated cutscenes: https://mega.nz/folder/iJw1jCpD#B-5TVXuVTSh91HAkqqOB3g<br>
-text boxes and tutorials with correct translations: https://mega.nz/folder/jEwBnIQY#xwu1eECkl0DzdG8EUtMp_A
+chapter 1-2 text boxes and tutorials with correct translations: https://mega.nz/folder/jEwBnIQY#xwu1eECkl0DzdG8EUtMp_A
