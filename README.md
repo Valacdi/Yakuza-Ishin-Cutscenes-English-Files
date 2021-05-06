@@ -9,3 +9,8 @@ For text boxes and tutorials download the boot.par, wdr.par, pause.par, street_n
 
 # Issues
 The issues remain the same as in the GT patch. After fully translating the remaining 6 chapters, I will make a patch to revert the GT patch changes so that it would be easier to solve the softlock issue.
+
+# DOWNLOAD
+
+chapter 1-8 translated cutscenes: https://mega.nz/folder/iJw1jCpD#B-5TVXuVTSh91HAkqqOB3g
+text boxes and tutorials with correct translations: https://mega.nz/folder/jEwBnIQY#xwu1eECkl0DzdG8EUtMp_A
